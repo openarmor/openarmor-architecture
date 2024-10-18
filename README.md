@@ -1,6 +1,17 @@
+<div align="center">
+
 # OpenArmor Architecture
 
-Welcome to the OpenArmor Architecture repository! This repository contains the architectural diagrams and documentation for the OpenArmor project, an advanced open-source security platform.
+<img src="assets/openarmor_logo.gif" alt="OpenArmor HIDS Logo" width="200"/>
+
+**Made with 🛡️ by the OpenArmor community**
+
+[Website](https://www.theopenarmor.org) • [Docs](https://www.theopenarmor.org/docs/) • [Downloads](https://www.theopenarmor.org/downloads/) • [Community](https://discord.gg/BXzM75Xzq7)
+</div>
+
+
+
+This repository contains the architectural diagrams and documentation for the OpenArmor project, an advanced open-source security platform.
 
 ## 🏗️ Repository Structure
 
@@ -58,10 +69,6 @@ For detailed documentation on each component and the overall OpenArmor architect
 
 We welcome contributions to improve our architecture and documentation. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to submit changes.
 
-## 📄 License
-
-OpenArmor Architecture is open-source software licensed under the [GNU General Public License v2.0](LICENSE).
-
 ## 📞 Contact
 
 For questions or support, please join our community channels:
@@ -71,4 +78,3 @@ For questions or support, please join our community channels:
 
 ---
 
-Made with 🛡️ by the OpenArmor community
